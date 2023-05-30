@@ -28,18 +28,18 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/spacecrafts/:spacecraftId",
+									"raw": "{{baseUrl}}/spacecrafts/:spacecraft",
 									"host": [
 										"{{baseUrl}}"
 									],
 									"path": [
 										"spacecrafts",
-										":spacecraftId"
+										":spacecraft"
 									],
 									"variable": [
 										{
-											"key": "spacecraftId",
-											"value": "<string>"
+											"key": "spacecraft",
+											"value": null
 										}
 									]
 								}
